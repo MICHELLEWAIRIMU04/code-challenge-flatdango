@@ -22,7 +22,7 @@ $ json-server --watch db.json
 
 Test your server by visiting this route in the browser:
 
-[http://localhost:3000/films](http://localhost:3000/films)
+[http://localhost:3000/](http://localhost:3000/films)
 
 Then, open the `index.html` file on your browser to run the application.
 
@@ -62,7 +62,7 @@ As a user, I can:
    feel free to remove that element by editing the HTML file directly, or use
    JavaScript to remove the placeholder element before populating the list. You
    will need to make a GET request to the following endpoint to retrieve the
-   film data:
+   film dfilmsata:
 
    ```txt
    GET /films
